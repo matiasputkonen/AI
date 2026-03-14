@@ -1,43 +1,42 @@
-# 🧠 AI-stack – Who Does What?
+# 🧠 AI Stack – Who Does What?
 
-Selkeä jako eri mallien vahvuuksien mukaan, nopeampi arki ja vähemmän säätöä.
-
----
-
-## ⚙️ Roolitus yhdellä silmäyksellä
-
-| Käyttötarve                                       | Valittu työkalu  |
-| --------------------------------------------------| ---------------- |
-| ✍️ Kaikki kirjoitustehtävät                       | **Claude**       |
-| 🧠 Päätöksenteko                                  | **Grok**         |
-| 🧾 Pitkien / monimutkaisten dokkien tiivistäminen | **Gemini**       |
-| ⏳ Taustalla pyörivät, monimutkaiset tehtävät     | **Claude**       |
-| 💡 Ideointi & brainstormaus                       | **ChatGPT**      |
-| 📚 Uuden taidon oppiminen                         | **Gemini**       |
-| 🕵️ Kilpailija-analyysit                           | **Grok**         |
+A clear division of strengths between different AI models.  
+Faster workflows and less friction.
 
 ---
 
-## 🗂️ Nopeat käyttöohjeet
+## ⚙️ Roles at a Glance
 
-### ✍️ Kirjoittaminen → Claude
-- Kaikki sähköposteista pitkiin dokumentteihin  
-- Käytä, kun tarvitset täysin valmista tekstiä
-
-### 🧠 Päätökset & kilpailijat → Grok
-- Strategiset valinnat, markkina-analyysit ja kilpailijakartoitus  
-- Kun haluat suoraa ja nopeasti hahmoteltua johtopäätöstä
-
-### 🧾 Tiivistykset & oppiminen → Gemini
-- Monimutkaisten artikkeleiden, raporttien ja paperien tiivistäminen  
-- Jäsennelty polku uuden taidon oppimiseen
-
-### 💡 Ideointi → ChatGPT
-- Uusien tuote-, bisnes-, sisältö- tai oppimisideoiden generointi  
-- Paras silloin, kun tarvitset määrää ja variaatiota
-
-### ⏳ Taustatyö → Claude
-- Laajat ja monivaiheiset kokonaisuudet  
-- Malli joka pystyy viemään projektia eteenpäin itsenäisesti
+| Use Case | Selected Tool |
+|----------|--------------|
+| ✍️ All writing tasks | **Claude** |
+| 🧠 Decision making | **Grok** |
+| 🧾 Summarizing long / complex documents | **Gemini** |
+| ⏳ Background tasks and complex work | **Claude** |
+| 💡 Ideation & brainstorming | **ChatGPT** |
+| 📚 Learning new skills | **Gemini** |
+| 🕵️ Competitor analysis | **Grok** |
 
 ---
+
+## 🗂️ Quick Usage Guide
+
+### ✍️ Writing → Claude
+- Everything from emails to long documents  
+- Use when you need polished, ready-to-use text
+
+### 🧠 Decisions & competitors → Grok
+- Strategic choices, market analysis and competitor mapping  
+- When you want a fast and direct conclusion
+
+### 🧾 Summaries & learning → Gemini
+- Summarizing complex articles, reports and papers  
+- Structured guidance when learning new skills
+
+### 💡 Ideation → ChatGPT
+- Generating new ideas for products, business, content or learning  
+- Best when you need volume and variation
+
+### ⏳ Background work → Claude
+- Large and multi-step tasks  
+- A model that can move projects forward independently
